@@ -1,0 +1,14 @@
+{
+  "name": "nana_mvc/nana_mvc",
+  "description": "mvc solo maker",
+  "type": "library",
+  "authors": [
+    {
+      "name": "palguna1121",
+      "email": "palguna2212@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.0"
+  }
+}
